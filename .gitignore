@@ -8,6 +8,7 @@ dist/
 # Editor directories and files
 .idea/
 .vscode/
+.trae/
 *.suo
 *.ntvs*
 *.njsproj
